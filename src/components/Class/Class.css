@@ -1,0 +1,14 @@
+.class
+{
+    margin: 10px;
+    width: 120px;
+    height: 120px;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+}
